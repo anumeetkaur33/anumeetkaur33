@@ -172,11 +172,11 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 </div>    
 
 ---
-
-<img src="https://raw.githubusercontent.com/Kushagra-Bajpei/Kushagra-Bajpei/main/assets/divider.gif" width="100%">
+<img src="https://raw.githubusercontent.com/anumeetkaur33/anumeetkaur33/main/assets/divider.gif" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/Kushagra-Bajpei/Kushagra-Bajpei/main/assets/divider.gif" width="100%"> -->
 
   
-  ![](https://count.getloli.com/get/@Kushagra-Bajpei.github.readme)
+  ![](https://count.getloli.com/get/@anumeetkaur33.github.readme)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
   
