@@ -162,7 +162,7 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw"> -->
 <div align="center">
   <!-- <img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="Metrics" width="100%"> -->
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </div>
 <br>
 
