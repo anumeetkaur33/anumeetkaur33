@@ -133,13 +133,13 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
   <tbody>
     <tr>
       <th>
-        <a href="https://github-readme-stats.vercel.app/api?username=Kushagra-Bajpei&show_icons=true&locale=en&">
-          <img src="https://github-readme-stats.vercel.app/api?username=Kushagra-Bajpei&show_icons=true&locale=en&theme=dracula"/>
+        <a href="https://github-readme-stats.vercel.app/api?username=anumeetkaur33&show_icons=true&locale=en&">
+          <img src="https://github-readme-stats.vercel.app/api?username=anumeetkaur33&show_icons=true&locale=en &theme=dracula"/>
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra-Bajpei">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra-Bajpei&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anumeetkaur33">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anumeetkaur33&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -147,7 +147,7 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 </table>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra-Bajpei&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anumeetkaur33&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
 
 <div align="center">
 <br>
