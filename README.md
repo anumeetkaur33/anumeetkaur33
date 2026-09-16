@@ -16,19 +16,19 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Kushagra+Bajpei+!" alt="HELLO SECTION">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Anumeet+Kaur+!" alt="HELLO SECTION">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F72585&background=00000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!+🚀" alt="Typing SVG">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kushagra-Bajpei&label=Profile%20views&color=0e75b6&style=flat" alt="Kushagra-Bajpei" height="30" width="180px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anumeetkaur33&label=Profile%20views&color=0e75b6&style=flat" alt="anumeetkaur33" height="30" width="180px"/> </p>
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100vw">
 
-<a href="https://github-trophies.vercel.app/?username=Kushagra-Bajpei" target="_blank">
+<a href="https://github-trophies.vercel.app/?username=anumeetkaur33" target="_blank">
 
-  <img src="https://github-trophies.vercel.app/?username=Kushagra-Bajpei&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSuperRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=9">
+  <img src="https://github-trophies.vercel.app/?username=anumeetkaur33&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSuperRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=9">
 </a> 
 
 
@@ -39,7 +39,7 @@
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-<p align="left"> <a href="https://github.com/Kushagra-Bajpei" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow--%3E-black?logo=github&style=for-the-badge" alt="Follow on GitHub" /></a> </p>
+<p align="left"> <a href="https://github.com/anumeetkaur33" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow--%3E-black?logo=github&style=for-the-badge" alt="Follow on GitHub" /></a> </p>
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
         <img align="left" src="https://i.pinimg.com/originals/48/97/66/489766e5f48617be90fad6832dd01570.gif" height="300" width="250">
@@ -50,7 +50,7 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 ```
 
 ```markdown 
-👋 Hi, I’m Kushagra Bajpei, passionate about coding and exploring new technologies.
+👋 Hi, I’m Anummet Kaur, passionate about coding and exploring new technologies.
 💻 Exploring web development with Reactjs, JavaScript, Typescript, Node.js, Express.js, and MongoDB.
 🚀 Currently learning and experimenting with Reactjs and modern web tools.
 🛠️ Comfortable working with C, C++, Python, HTML, CSS, Javascript, Typescript, Git/GitHub, and MongoDB.
@@ -116,13 +116,13 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
   <tbody>
     <tr>
         <th>
-          <a href="https://streak-stats.demolab.com?user=Kushagra-Bajpei&theme=dracula">
-          <img src="https://streak-stats.demolab.com?user=Kushagra-Bajpei&theme=dracula" alt="GitHub Streak Stats"/>
+          <a href="https://streak-stats.demolab.com?user=anumeetkaur33&theme=dracula">
+          <img src="https://streak-stats.demolab.com?user=anumeetkaur33&theme=dracula" alt="GitHub Streak Stats"/>
           </a>
         </th> 
         <th>
-          <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagra-Bajpei&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushagra-Bajpei&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400"/> 
+          <a href="https://github-readme-stats.vercel.app/api/top-langs?username=anumeetkaur33&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anumeetkaur33&show_icons=true&locale=en&langs_count=10&theme=dracula&layout=compact&card_width=380&card_height=400"/> 
           </a>
         </th>
     </tr>
