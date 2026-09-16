@@ -168,7 +168,7 @@ Kushagra-Bajpei@github:~$ ./welcome.sh
 
 ### 🐍 Contribution Snake 
  <div align="center"> 
-<img src="https://raw.githubusercontent.com/Kushagra-Bajpei/Kushagra-Bajpei/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />  
+<img src="https://raw.githubusercontent.com/anumeetkaur33/anumeetkaur33/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> 
 </div>    
 
 ---
