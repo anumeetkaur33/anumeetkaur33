@@ -46,7 +46,7 @@
     </div>
  
 ```
-Kushagra-Bajpei@github:~$ ./welcome.sh
+Anumeet-Kaur@github:~$ ./welcome.sh
 ```
 
 ```markdown 
